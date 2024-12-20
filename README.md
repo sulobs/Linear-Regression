@@ -1,0 +1,1 @@
+The table below shows the number of grams of carbohydrates, X and the number of Calories, Y of six different foods. Find linear regression equation for this data set and plot the best fit line.[lrp.pdf](https://github.com/user-attachments/files/18209850/lrp.pdf)
